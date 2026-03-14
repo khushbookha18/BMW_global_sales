@@ -1,4 +1,6 @@
-﻿numpy
-Pandas
+streamlit
+pandas
+numpy
 scikit-learn
+xgboost
 joblib
